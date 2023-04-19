@@ -1,7 +1,7 @@
 ## Olá eu sou Alex Camargo 👋 Front-end developer  
 - 🔭 trabalho com Front-End
 - 🌱 Aprendendo sobre React / typescript
-- 💻 Cursando no eplorer da <a href="https://www.rocketseat.com.br/">Rocketseat</a>
+- 💻 Cursando no explorer da <a href="https://www.rocketseat.com.br/">Rocketseat</a>
 
 <!---
 ## Git Stats
